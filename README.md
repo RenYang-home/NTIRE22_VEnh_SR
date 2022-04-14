@@ -2,7 +2,7 @@
 
 The homepage for the NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video.  [[Report]]() 
 
-This challenged is organized by [Ren Yang](https://renyang-home.github.io/) and [Prof. Dr. Radu Timofte](https://people.ee.ethz.ch/~timofter/) (ETH Zurich, Julius Maximilian University of Wurzburg) as a part of the [NTIRE 2022 Workshop](https://data.vision.ee.ethz.ch/cvl/ntire22/) in conjunction with [CVPR 2022](https://cvpr2022.thecvf.com/).
+This challenged is organized by [Ren Yang](https://renyang-home.github.io/) (ETH Zurich) and [Prof. Dr. Radu Timofte](https://people.ee.ethz.ch/~timofter/) (ETH Zurich, Julius Maximilian University of Wurzburg) as a part of the [NTIRE 2022 Workshop](https://data.vision.ee.ethz.ch/cvl/ntire22/) in conjunction with [CVPR 2022](https://cvpr2022.thecvf.com/).
 
 If the LDV 2.0 dataset and the benchmark are useful for your research, please cite:
 ```
