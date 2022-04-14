@@ -38,7 +38,6 @@ The raw YUV videos in the LDV 2.0 dataset are losslessly compressed to mkv via f
 ffmpeg -pix_fmt yuv420p -s (width)x(height) -i xxx.yuv -vf scale=(w)x(h):flags=bicubic xxx.yuv
 ```
 
-
 3. Download HM 16.20 at https://hevc.hhi.fraunhofer.de/svn/svn_HEVCSoftware/tags/HM-16.20 or https://data.vision.ee.ethz.ch/reyang/HM16.20.zip
 
 4. Compress yuv files by the command:
@@ -58,3 +57,19 @@ Note that “BasketballDrill.cfg” is a randomly selected file, and most of its
 ffmpeg -i path_to_raw/001.mkv ./raw_001/%3d.png
 ffmpeg -i path_to_compressed/001.mkv ./001/%3d.png
 ```
+
+## NTIRE 2022 Benchmark
+
+The methods and results of the NTIRE 2022 benchmark are discribed in the report:
+
+> Ren Yang, Radu Timofte, et al., "NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2022. [[Paper]]()
+
+To make the benchmark more convincing and solid, we will update the open-source codes of the proposed methods in the following.
+
+- **BasicVSR++** (Contact: Kelvin C.K. Chan, chan0899@e.ntu.edu.sg)
+
+  Winner method in NTIRE 2021
+  
+  - Paper: https://arxiv.org/abs/2104.13371
+
+  - Code: https://github.com/open-mmlab/mmediting/tree/master/configs/restorers/basicvsr_plusplus
