@@ -66,6 +66,12 @@ The methods and results of the NTIRE 2022 benchmark are discribed in the report:
 
 To make the benchmark more convincing and solid, we will update the open-source codes of the proposed methods in the following.
 
+- **TaoMC2 Team** (Contact: Meisong Zheng, zhengmeisong.zms@alibaba-inc.com)
+
+  Winner of Track 1 and Track 2
+
+  - Homepage: https://github.com/ryanxingql/winner-ntire22-vqe
+
 - **BasicVSR++** (Contact: Kelvin C.K. Chan, chan0899@e.ntu.edu.sg)
 
   Winner method in NTIRE 2021
