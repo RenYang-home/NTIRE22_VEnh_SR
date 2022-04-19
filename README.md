@@ -72,6 +72,10 @@ To make the benchmark more convincing and solid, we will update the open-source 
 
   - Homepage: https://github.com/ryanxingql/winner-ntire22-vqe
 
+- **OCL-VCE Team** (Contact: Thong Bach, thongbtqm@gmail.com)
+
+  - Code: https://drive.google.com/file/d/15wwKhBJgQRpr0oCOuxPc8jVnccN0cOyw/view?usp=sharing
+
 - **BasicVSR++** (Contact: Kelvin C.K. Chan, chan0899@e.ntu.edu.sg)
 
   Winner method in NTIRE 2021
