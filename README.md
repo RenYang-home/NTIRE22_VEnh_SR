@@ -1,6 +1,6 @@
 # NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video
 
-The homepage for the NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video.  [[Report]]() 
+The homepage for the NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video.  [[Report]](http://arxiv.org/abs/2204.09314) 
 
 This challenged is organized by [Ren Yang](https://renyang-home.github.io/) (ETH Zurich) and [Prof. Dr. Radu Timofte](https://people.ee.ethz.ch/~timofter/) (ETH Zurich, Julius Maximilian University of Wurzburg) as a part of the [NTIRE 2022 Workshop](https://data.vision.ee.ethz.ch/cvl/ntire22/) in conjunction with [CVPR 2022](https://cvpr2022.thecvf.com/).
 
@@ -62,7 +62,7 @@ ffmpeg -i path_to_compressed/001.mkv ./001/%3d.png
 
 The methods and results of the NTIRE 2022 benchmark are discribed in the report:
 
-> Ren Yang, Radu Timofte, et al., "NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2022. [[Paper]]()
+> Ren Yang, Radu Timofte, et al., "NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results", in IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, 2022. [[Paper]](http://arxiv.org/abs/2204.09314)
 
 To make the benchmark more convincing and solid, we will update the open-source codes of the proposed methods in the following.
 
