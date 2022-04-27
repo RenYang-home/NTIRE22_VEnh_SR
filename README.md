@@ -69,6 +69,8 @@ To make the benchmark more convincing and solid, we will update the open-source 
 - **TaoMC2 Team** (Contact: Meisong Zheng, zhengmeisong.zms@alibaba-inc.com)
 
   Winner of Track 1 and Track 2
+  
+  - Paper: https://arxiv.org/abs/2204.09924
 
   - Homepage: https://github.com/ryanxingql/winner-ntire22-vqe
 
