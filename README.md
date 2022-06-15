@@ -1,6 +1,6 @@
 # NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video
 
-The homepage for the NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video.  [[Report]](http://arxiv.org/abs/2204.09314) 
+The homepage for the NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video.  [[Report]]([http://arxiv.org/abs/2204.09314](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yang_NTIRE_2022_Challenge_on_Super-Resolution_and_Quality_Enhancement_of_Compressed_CVPRW_2022_paper.pdf)) 
 
 This challenged is organized by [Ren Yang](https://renyang-home.github.io/) (ETH Zurich) and [Prof. Dr. Radu Timofte](https://people.ee.ethz.ch/~timofter/) (ETH Zurich, Julius Maximilian University of Wurzburg) as a part of the [NTIRE 2022 Workshop](https://data.vision.ee.ethz.ch/cvl/ntire22/) in conjunction with [CVPR 2022](https://cvpr2022.thecvf.com/).
 
