@@ -7,7 +7,7 @@ This challenged is organized by [Ren Yang](https://renyang-home.github.io/) (ETH
 If the LDV 2.0 dataset and the benchmark are useful for your research, please cite:
 ```
 @inproceedings{yang2022ntire,
-  title={{NTIRE 2022} Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Report, Methods and Results},
+  title={{NTIRE 2022} Challenge on Super-Resolution and Quality Enhancement of Compressed Video: Dataset, Methods and Results},
   author={Ren Yang and Radu Timofte and others}, 
   booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops}, 
   year={2022}
