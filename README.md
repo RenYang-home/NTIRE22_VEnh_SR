@@ -24,7 +24,7 @@ Email: ren.yang@vision.ee.ethz.ch
 
 We use the LDV 2.0 dataset in this Challenge. Please find the dataset and the splits of training, validation and test sets at https://github.com/RenYang-home/LDV_dataset#ldv-20-ldv-10--95-videos
 
-### Challenge
+## Challenge
 
 In Track 1, videos are compressed in the YUV domain by the Low-delay P mode HM 16.20 at QP 37. In Track 2, videos are first x2 downsampled and then compressed in the YUV domain by the Low-delay P mode HM 16.20 at QP 37. In Track 3, videos are first x4 downsampled and then compressed in the YUV domain by the Low-delay P mode HM 16.20 at QP 37.
 
