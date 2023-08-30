@@ -1,3 +1,7 @@
+The homepage for the **NTIRE 2021** Challenge on Quality Enhancement of Compressed Video is available at https://github.com/RenYang-home/NTIRE21_VEnh
+
+The homepage for the **AIM 2022** Challenge on Super-Resolution of Compressed Image and Video is available at https://github.com/RenYang-home/AIM22_CompressSR
+
 # NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video
 
 The homepage for the NTIRE 2022 Challenge on Super-Resolution and Quality Enhancement of Compressed Video.  [[Report]](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Yang_NTIRE_2022_Challenge_on_Super-Resolution_and_Quality_Enhancement_of_Compressed_CVPRW_2022_paper.pdf)
