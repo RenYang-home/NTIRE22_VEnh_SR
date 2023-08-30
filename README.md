@@ -26,6 +26,8 @@ Email: ren.yang@vision.ee.ethz.ch
 
 ## LDV 2.0 Dataset
 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) The latest LDV 3.0 dataset (365 videos) is available at https://github.com/RenYang-home/LDV_dataset
+
 We use the LDV 2.0 dataset in this Challenge. Please find the dataset and the splits of training, validation and test sets at https://github.com/RenYang-home/LDV_dataset#ldv-20-ldv-10--95-videos
 
 ## Challenge
